@@ -1,3 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    display: flex;
+    margin: 30px 30px;
+    position: static;
+    align-items: center;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    gap: 20px;
+}
+
+.link {
+    color: #17233D;
+    text-transform: capitalize;
+}
+
+#key {
+    width: 91px;
+    height: 31px;
+    top: 14px;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #6FBF44;
+    border: none;
+    border-radius: 10px;
+}
+
+#access {
+    color: #ffffff;
+    text-transform: capitalize;
+}
+
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 40px;
+    margin-top: 150px;
+    align-items:center ;
+    justify-content: center;
+    gap: 150px;
+    text-align: center;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 35px;
+}
+
+img {
+    width: 595px;
+    height: 500px;
+}
+
+h1 {
+    font-size: 64px;
+color: #161A49;
+
+}
+
+p{
+    align-items: start;
+    color: #4B505A;   
+}
+
+a{
+    font-size: 18px;
+    font-weight: 500;
+    color: #6FBF44;
+}
+
 /*The project started here (O projeto começou por aqui)*/
 
 @media(max-width:600px) {
