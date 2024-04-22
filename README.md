@@ -1,7 +1,8 @@
 <h1>Wide coverage location</h1>
 <br>
-<p>Este projeto foi realiazado resolvendo  o desafio 1 do módulo 2 de CSS. Fiz alguns incrementos no botão para deixá-lo funcional. O diferencial desse projeto é que ele foi iniciado pela <b>RESPONSSIVIDADE</b>.
-no começo pareceu dificil, mas com o desenrolar do projeto, tudo se alinhou lugar determinado:sunglasses::sunglasses::sunglasses::sunglasses:.  </p>
+<p>Este projeto foi realiazado resolvendo  o desafio 1 do módulo 2 de CSS. Fiz alguns incrementos no botão para deixá-lo funcional.</p>
+<p>O <b>DIFERENCIAL</b> desse projeto, é que ele foi iniciado pela <b>RESPONSIVIDADE</b>.
+no começo pareceu difícil, mas com o desenrolar do projeto, tudo se alinhou no seu lugar determinado. :sunglasses::sunglasses::sunglasses::sunglasses:</p>
 <br>
 <h2>Tecnologias usadas</h2>
 
